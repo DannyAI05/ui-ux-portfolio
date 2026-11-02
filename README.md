@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR-USERNAME/YOUR-REPOSITORY">GitHub Repository</a> •
-  <a href="https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/">Live Portfolio</a>
+  <a href="https://github.com/DannyAI05/Portfolio-project">GitHub Repository</a> •
+  <a href="https://DannyAI05.github.io/Portfolio-project/">Live Portfolio</a>
 </p>
 
 ## About the Project
